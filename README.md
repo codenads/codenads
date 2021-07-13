@@ -1,6 +1,6 @@
 ## Looking into my profile? 🤔
 
-Feel free and confortable to look around
+<p>Feel free and comfortable to look around</p>
 
 ---
 
