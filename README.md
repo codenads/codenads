@@ -1,12 +1,12 @@
 ## Looking into my profile? 🤔
 
-<p>Feel free and comfortable to look around</p>
+Feel free and comfortable to look around
 
 ---
 
 ## About Me
 
-<p>Full stack web developer and computer science student. I would think of me as someone who is always searching up for challenges, out of my comfort zone, and delivery my assigned job as quickly as possible.</p>
+Full stack web developer and computer science student. I would think of me as someone who is always searching up for challenges, out of my comfort zone, and delivery my assigned job as quickly as possible.
 
 ---
 
@@ -44,19 +44,9 @@
 
 ## Contact
 
-<p>
-    <a href="https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B4nio-3191571b5/" title="LinkedIn: Luís Antônio">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin">
-    </a>
-    &nbsp;
-    <a href="mailto:codenads@outlook.com" title="E-mail: codenads@outlook.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/luis_nads/" title="Instagram: Luís Antônio">
-        <img align="center" src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B4nio-3191571b5/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codenads@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_nads/)
 
 ---
 
