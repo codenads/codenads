@@ -45,13 +45,6 @@ Full stack web developer and computer science student. I would think of me as so
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B4nio-3191571b5/)
-[![LinkedIn](https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codenads@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisnads.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_nads/)
 
----
-
-## Github Statistics
-
-![Luís' Github Status](https://github-readme-stats.vercel.app/api?username=codenads&count_private=true&show_icons=true&theme=dark&hide=issues,contribs&icon_color=d9af62&hide_border=true&title_color=d9af62&bg_color=202020)
-
-![Luís' Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codenads&bg_color=202020&hide_border=true&hide_title=true&line=d9af62&color=d9af62&area=true&area_color=d9af62&point=d9af62)
